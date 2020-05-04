@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Flylife",
+    "slug": "flylife",
+    "description": "Flylife é um diário para que você possa se abrir consigo mesmo(a)",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/appIcon.png",
+    "splash": {
+      "image": "./src/assets/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#282a36"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.hatysah.flylife"
+    }
+  }
+}
