@@ -14,6 +14,8 @@
 
 Flylife é um aplicativo mobile construído com React Native (ExpoJS), e tem como objetivo servir como um diário para que o usuário possa se abrir consigo mesmo e obter autoconhecimento através das palavras.
 
+Clique [aqui](https://app.box.com/s/53g1hm404r6cbv4sxcattba79knjc6h6) para realizar o download da aplicação
+
 ## Principais features
 
 * Trabalha completamente offline
@@ -41,4 +43,5 @@ Apesar de ter sido construído com um framework híbrido, o aplicativo foi compl
 ## Agradecimentos
 
 Icone do aplicativo por [Smashicons](https://www.flaticon.com/authors/smashicons)
+
 Imagem da tela inicial por [Giphy](https://giphy.com/gifs/snow-cup-chocolate-ONLoRRAHQh5kY)
