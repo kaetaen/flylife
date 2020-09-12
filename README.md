@@ -4,9 +4,9 @@
 
 <!-- img -->
 <p>
- <img src="https://i.ibb.co/brBnHsk/Whats-App-Image-2020-04-05-at-20-03-36.jpg" width="280" height="470" />
- <img src="https://i.ibb.co/p1b8nhM/Whats-App-Image-2020-04-05-at-20-03-13.jpg=10x2" width="280" height="470" />
- <img src="https://i.ibb.co/CPwXr5r/Whats-App-Image-2020-04-05-at-20-03-36-2.jpg" width="280" height="470" />
+ <img src="https://i.ibb.co/brBnHsk/Whats-App-Image-2020-04-05-at-20-03-36.jpg" width="270" height="470" />
+ <img src="https://i.ibb.co/p1b8nhM/Whats-App-Image-2020-04-05-at-20-03-13.jpg=10x2" width="270" height="470" />
+ <img src="https://i.ibb.co/CPwXr5r/Whats-App-Image-2020-04-05-at-20-03-36-2.jpg" width="270" height="470" />
 </p>
 <!-- Img -->
 
